@@ -1,0 +1,29 @@
+.main {
+    display: flex;
+}
+
+.search {
+    display: flex;
+    flex-direction: column;
+    margin-right: 40px;
+    background-color: beige;
+    padding: 20px;
+    height: 100%;
+}
+
+.searchButton {
+    margin-top: 20px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+}
+
+.results {
+    background-color: aquamarine;
+}
+
+.cardsContainer {
+    display: flex;
+}
